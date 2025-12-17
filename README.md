@@ -62,5 +62,5 @@ Future Improvements
 
 Developed by Rabbi Aini Mandih
 Mathematics Computer Graphics
-GitHub: https://github.com/paperplanee
+GitHub: https://github.com/paperplaneee
 
